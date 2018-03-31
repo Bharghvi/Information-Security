@@ -1,0 +1,4 @@
+Uses of DES:
+
+Avalanche effect (Plain to Cipher text).
+No considerable uses in big application.
